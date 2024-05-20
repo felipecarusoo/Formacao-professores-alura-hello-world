@@ -1,0 +1,34 @@
+body {
+    background-image: linear-gradient(#1bebf2, white);
+    color: #000000;
+    font-family: Roboto;
+    text-align: center;
+    min-height: 100vh;
+    overflow: hidden;
+}
+
+
+header {
+    border-bottom: 1px solid grey;
+}
+
+
+footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    height: 50px;
+}
+
+h2 {
+    color: #390cab;
+    font-family: "Freeman", sans-serif;
+}
+
+#nome-usuário {
+    font-weight: bold;
+}
+
+.texto {
+    font-style: italic;
+}
